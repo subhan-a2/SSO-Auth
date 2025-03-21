@@ -1,0 +1,18 @@
+.next-steps {
+    text-align: center;
+    background: linear-gradient(to right, #007bff, #00c6ff);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .next-steps h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .next-steps p {
+    font-size: 1.2em;
+  }
+  
